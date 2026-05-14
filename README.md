@@ -24,4 +24,4 @@ This project focuses on layout design, responsiveness, and UI recreation skills.
 
 ## 📸 Preview
 
-> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9407020f-0ceb-4f97-b604-0755d0d2c5da" />
+> <img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/ae2bb97b-7de6-4b07-bad3-44241ad751fa" />
